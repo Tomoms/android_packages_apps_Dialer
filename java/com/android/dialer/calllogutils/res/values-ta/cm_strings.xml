@@ -21,6 +21,6 @@
     <string name="call_log_incoming_header">உள்வரு அழைப்புகள் மட்டும்</string>
     <string name="call_log_outgoing_header">வெளிசெல் அழைப்புகள் மட்டும்</string>
     <string name="call_log_missed_header">தவறிய அழைப்புகள் மட்டும்</string>
-    <string name="call_log_voicemail_header">குரல்அஞ்சலுடன் அழைப்புகள் மட்டும்</string>
+    <string name="call_log_voicemail_header">குரலஞ்சலுடன் அழைப்புகள் மட்டும்</string>
     <string name="call_log_blacklist_header">தடுத்த அழைப்புகள் மட்டும்</string>
 </resources>

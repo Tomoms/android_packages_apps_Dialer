@@ -50,4 +50,17 @@
     <string name="helpline_category_pregnancy">بارداری</string>
     <string name="helpline_category_psychological">روانشناسی</string>
     <string name="helpline_category_religion">دین</string>
+    <string name="helpline_category_senior">سالمندان</string>
+    <string name="helpline_category_sexual_abuse">سوء استفاده جنسی</string>
+    <string name="helpline_category_sexual_assault">حمله جنسی</string>
+    <string name="helpline_category_sexual_rights">حقوق جنسی</string>
+    <string name="helpline_category_sexuality">جنسی</string>
+    <string name="helpline_category_soldiers">سربازان</string>
+    <string name="helpline_category_suicide">پیشگیری از خودکشی</string>
+    <string name="helpline_category_trans">تغییر جنسیت</string>
+    <string name="helpline_category_veterans">پیشکسوتان</string>
+    <string name="helpline_category_violence">ترویج خشونت</string>
+    <string name="helpline_category_war">جنگ</string>
+    <string name="helpline_category_women">زنان</string>
+    <string name="helpline_category_youth">جوانی</string>
 </resources>
