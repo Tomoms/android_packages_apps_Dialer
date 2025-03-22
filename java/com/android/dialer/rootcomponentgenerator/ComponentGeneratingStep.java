@@ -19,12 +19,14 @@ package com.android.dialer.rootcomponentgenerator;
 
 import static com.google.auto.common.AnnotationMirrors.getAnnotationValue;
 import static com.google.auto.common.MoreElements.getAnnotationMirror;
+
 import static javax.lang.model.element.Modifier.ABSTRACT;
 import static javax.lang.model.element.Modifier.PUBLIC;
 import static javax.lang.model.element.Modifier.STATIC;
 import static javax.lang.model.util.ElementFilter.typesIn;
 
 import com.android.dialer.inject.IncludeInDialerRoot;
+
 import com.google.auto.common.BasicAnnotationProcessor.ProcessingStep;
 import com.google.auto.common.MoreElements;
 import com.google.common.base.Optional;
@@ -37,6 +39,8 @@ import com.squareup.javapoet.MethodSpec;
 import com.squareup.javapoet.ParameterSpec;
 import com.squareup.javapoet.TypeName;
 import com.squareup.javapoet.TypeSpec;
+
+import dagger.Subcomponent;
 
 import java.lang.annotation.Annotation;
 import java.util.ArrayList;
@@ -52,8 +56,6 @@ import javax.lang.model.element.ExecutableElement;
 import javax.lang.model.element.TypeElement;
 import javax.lang.model.element.VariableElement;
 import javax.lang.model.type.TypeMirror;
-
-import dagger.Subcomponent;
 
 /**
  * Generates component for a type annotated with {@link IncludeInDialerRoot}.

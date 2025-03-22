@@ -21,6 +21,7 @@ import android.telecom.PhoneAccountHandle;
 
 import com.android.contacts.common.widget.SelectPhoneAccountDialogOptions;
 import com.android.dialer.preferredsim.suggestion.SuggestionProvider.Suggestion;
+
 import com.google.auto.value.AutoValue;
 import com.google.common.util.concurrent.ListenableFuture;
 

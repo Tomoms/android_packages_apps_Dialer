@@ -25,6 +25,7 @@ import android.text.TextUtils;
 import com.android.dialer.R;
 import com.android.dialer.calllog.model.CoalescedRow;
 import com.android.dialer.spam.Spam;
+
 import com.google.common.collect.Collections2;
 
 import java.util.ArrayList;

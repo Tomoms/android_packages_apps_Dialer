@@ -23,6 +23,7 @@ import com.android.dialer.phonelookup.cnap.CnapPhoneLookup;
 import com.android.dialer.phonelookup.cp2.Cp2DefaultDirectoryPhoneLookup;
 import com.android.dialer.phonelookup.cp2.Cp2ExtendedDirectoryPhoneLookup;
 import com.android.dialer.phonelookup.emergency.EmergencyPhoneLookup;
+
 import com.google.common.collect.ImmutableList;
 
 import dagger.Module;

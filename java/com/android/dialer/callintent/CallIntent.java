@@ -34,6 +34,7 @@ import androidx.annotation.Nullable;
 
 import com.android.dialer.common.Assert;
 import com.android.dialer.util.CallUtil;
+
 import com.google.auto.value.AutoValue;
 import com.google.common.collect.ImmutableMap;
 import com.google.protobuf.InvalidProtocolBufferException;

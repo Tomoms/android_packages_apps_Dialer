@@ -19,10 +19,10 @@ package com.android.dialer.phonenumbergeoutil.impl;
 
 import com.android.dialer.phonenumbergeoutil.PhoneNumberGeoUtil;
 
-import javax.inject.Singleton;
-
 import dagger.Binds;
 import dagger.Module;
+
+import javax.inject.Singleton;
 
 /** Module which binds {@link PhoneNumberGeoUtilImpl}. */
 @Module

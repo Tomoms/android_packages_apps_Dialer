@@ -29,7 +29,6 @@ import com.android.dialer.common.LogUtil;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-
 /** Class used by the periodic job service to refresh dynamic and pinned shortcuts. */
 final class RefreshShortcutsTask {
 

@@ -26,6 +26,7 @@ import android.text.TextUtils;
 import android.view.View;
 
 import com.android.contacts.common.model.account.AccountType;
+
 import com.google.i18n.phonenumbers.NumberParseException;
 import com.google.i18n.phonenumbers.PhoneNumberUtil;
 

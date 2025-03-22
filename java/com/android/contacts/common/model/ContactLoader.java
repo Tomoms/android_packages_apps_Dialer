@@ -52,6 +52,7 @@ import com.android.dialer.common.LogUtil;
 import com.android.dialer.location.GeoUtil;
 import com.android.dialer.util.PermissionsUtil;
 import com.android.dialer.util.UriUtils;
+
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;

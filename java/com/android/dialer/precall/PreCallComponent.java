@@ -22,6 +22,7 @@ import android.content.Context;
 import androidx.annotation.NonNull;
 
 import com.android.dialer.inject.HasRootComponent;
+
 import com.google.common.collect.ImmutableList;
 
 import dagger.Subcomponent;

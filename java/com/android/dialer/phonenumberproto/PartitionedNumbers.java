@@ -24,6 +24,7 @@ import androidx.collection.ArraySet;
 
 import com.android.dialer.DialerPhoneNumber;
 import com.android.dialer.common.Assert;
+
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
 

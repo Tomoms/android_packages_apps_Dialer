@@ -36,6 +36,7 @@ import com.android.dialer.metrics.FutureTimer;
 import com.android.dialer.metrics.FutureTimer.LogCatMode;
 import com.android.dialer.metrics.Metrics;
 import com.android.dialer.storage.Unencrypted;
+
 import com.google.common.base.Preconditions;
 import com.google.common.util.concurrent.Futures;
 import com.google.common.util.concurrent.ListenableFuture;

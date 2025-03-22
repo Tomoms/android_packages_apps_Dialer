@@ -32,6 +32,7 @@ import com.android.dialer.common.database.Selection;
 import com.android.dialer.inject.ApplicationContext;
 import com.android.dialer.notification.missedcalls.MissedCallNotificationCanceller;
 import com.android.dialer.util.PermissionsUtil;
+
 import com.google.common.collect.ImmutableSet;
 import com.google.common.util.concurrent.Futures;
 import com.google.common.util.concurrent.ListenableFuture;

@@ -26,6 +26,7 @@ import android.provider.ContactsContract.DisplayNameSources;
 
 import com.android.contacts.common.GroupMetaData;
 import com.android.contacts.common.model.account.AccountType;
+
 import com.google.common.collect.ImmutableList;
 
 import java.util.ArrayList;

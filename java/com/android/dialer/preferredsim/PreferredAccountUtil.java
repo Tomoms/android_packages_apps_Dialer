@@ -26,6 +26,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.android.dialer.common.LogUtil;
+
 import com.google.common.collect.ImmutableSet;
 
 import java.util.Optional;

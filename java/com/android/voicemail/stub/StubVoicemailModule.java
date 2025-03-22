@@ -19,10 +19,10 @@ package com.android.voicemail.stub;
 
 import com.android.voicemail.VoicemailClient;
 
-import javax.inject.Singleton;
-
 import dagger.Binds;
 import dagger.Module;
+
+import javax.inject.Singleton;
 
 /**
  * A no-op version of the voicemail module for build targets that don't support the new OTMP client.

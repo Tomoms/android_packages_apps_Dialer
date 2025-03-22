@@ -33,7 +33,6 @@ import com.android.dialer.common.concurrent.DialerExecutorComponent;
 import com.android.dialer.common.concurrent.SupportUiListener;
 import com.android.dialer.glidephotomanager.PhotoInfo;
 import com.android.dialer.protos.ProtoParsers;
-import com.android.dialer.rtt.RttTranscript;
 import com.android.dialer.widget.DialerToolbar;
 
 /** Activity holds RTT transcript. */

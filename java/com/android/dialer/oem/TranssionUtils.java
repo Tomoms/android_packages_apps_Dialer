@@ -22,6 +22,7 @@ import android.os.Build;
 
 import com.android.dialer.common.Assert;
 import com.android.dialer.compat.telephony.TelephonyManagerCompat;
+
 import com.google.common.collect.ImmutableSet;
 
 /** Utilities for Transsion devices. */

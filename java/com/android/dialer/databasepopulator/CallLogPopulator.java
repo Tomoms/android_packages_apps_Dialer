@@ -30,6 +30,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.WorkerThread;
 
 import com.android.dialer.common.Assert;
+
 import com.google.auto.value.AutoValue;
 
 import java.util.ArrayList;

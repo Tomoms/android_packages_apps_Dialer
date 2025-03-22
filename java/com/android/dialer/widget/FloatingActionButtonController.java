@@ -30,6 +30,7 @@ import androidx.annotation.DrawableRes;
 
 import com.android.dialer.R;
 import com.android.dialer.common.Assert;
+
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 /** Controls the movement and appearance of the FAB (Floating Action Button). */

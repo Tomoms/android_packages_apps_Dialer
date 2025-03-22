@@ -23,6 +23,7 @@ import android.util.AttributeSet;
 import androidx.annotation.Nullable;
 
 import com.android.dialer.common.Assert;
+
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 /**

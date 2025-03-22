@@ -60,7 +60,6 @@ import com.android.dialer.common.concurrent.DefaultFutureCallback;
 import com.android.dialer.compat.telephony.TelephonyManagerCompat;
 import com.android.dialer.location.GeoUtil;
 import com.android.dialer.logging.ContactLookupResult;
-import com.android.dialer.logging.ContactLookupResult.Type;
 import com.android.dialer.preferredsim.PreferredAccountRecorder;
 import com.android.dialer.rtt.RttTranscript;
 import com.android.dialer.rtt.RttTranscriptUtil;
@@ -75,6 +74,7 @@ import com.android.incallui.videotech.VideoTech.VideoTechListener;
 import com.android.incallui.videotech.empty.EmptyVideoTech;
 import com.android.incallui.videotech.ims.ImsVideoTech;
 import com.android.incallui.videotech.utils.VideoUtils;
+
 import com.google.common.util.concurrent.Futures;
 import com.google.common.util.concurrent.MoreExecutors;
 

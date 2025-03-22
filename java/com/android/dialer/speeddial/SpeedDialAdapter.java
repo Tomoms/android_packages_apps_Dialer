@@ -40,6 +40,7 @@ import com.android.dialer.speeddial.SpeedDialFragment.HostInterface;
 import com.android.dialer.speeddial.SuggestionViewHolder.SuggestedContactsListener;
 import com.android.dialer.speeddial.draghelper.SpeedDialItemTouchHelperCallback.ItemTouchHelperAdapter;
 import com.android.dialer.speeddial.loader.SpeedDialUiItem;
+
 import com.google.common.collect.ImmutableList;
 
 import java.lang.annotation.Retention;

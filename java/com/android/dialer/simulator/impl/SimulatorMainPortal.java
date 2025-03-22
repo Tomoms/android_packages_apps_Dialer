@@ -27,6 +27,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.android.dialer.common.concurrent.DialerExecutorComponent;
 import com.android.dialer.simulator.Simulator;
 import com.android.dialer.simulator.SimulatorComponent;
+
 import com.google.common.collect.ImmutableMap;
 import com.google.common.util.concurrent.ListenableFuture;
 

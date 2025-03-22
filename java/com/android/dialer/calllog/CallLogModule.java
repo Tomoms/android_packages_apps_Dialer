@@ -23,6 +23,7 @@ import com.android.dialer.calllog.datasources.DataSources;
 import com.android.dialer.calllog.datasources.phonelookup.PhoneLookupDataSource;
 import com.android.dialer.calllog.datasources.systemcalllog.SystemCallLogDataSource;
 import com.android.dialer.calllog.datasources.voicemail.VoicemailDataSource;
+
 import com.google.common.collect.ImmutableList;
 
 import dagger.Module;

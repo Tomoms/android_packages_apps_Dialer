@@ -19,10 +19,10 @@ package com.android.dialer.preferredsim.suggestion.stub;
 
 import com.android.dialer.preferredsim.suggestion.SuggestionProvider;
 
-import javax.inject.Singleton;
-
 import dagger.Binds;
 import dagger.Module;
+
+import javax.inject.Singleton;
 
 /** Stub module for {@link com.android.dialer.preferredsim.suggestion.SimSuggestionComponent} */
 @Module

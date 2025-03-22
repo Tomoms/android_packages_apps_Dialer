@@ -23,6 +23,7 @@ import android.os.Parcelable;
 import androidx.annotation.Nullable;
 
 import com.android.dialer.common.LogUtil;
+
 import com.google.auto.value.AutoValue;
 
 import java.util.Locale;

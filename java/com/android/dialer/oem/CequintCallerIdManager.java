@@ -31,6 +31,7 @@ import androidx.annotation.WorkerThread;
 import com.android.dialer.R;
 import com.android.dialer.common.Assert;
 import com.android.dialer.common.LogUtil;
+
 import com.google.auto.value.AutoValue;
 
 import java.util.concurrent.ConcurrentHashMap;

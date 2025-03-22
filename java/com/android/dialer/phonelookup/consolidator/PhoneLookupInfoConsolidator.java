@@ -27,6 +27,7 @@ import com.android.dialer.phonelookup.PhoneLookupInfo.BlockedState;
 import com.android.dialer.phonelookup.PhoneLookupInfo.Cp2Info.Cp2ContactInfo;
 import com.android.dialer.phonelookup.PhoneLookupInfo.PeopleApiInfo;
 import com.android.dialer.phonelookup.PhoneLookupInfo.PeopleApiInfo.InfoType;
+
 import com.google.common.collect.ImmutableList;
 
 import java.lang.annotation.Retention;

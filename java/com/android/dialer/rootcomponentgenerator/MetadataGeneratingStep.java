@@ -19,6 +19,7 @@ package com.android.dialer.rootcomponentgenerator;
 
 import com.android.dialer.inject.IncludeInDialerRoot;
 import com.android.dialer.inject.RootComponentGeneratorMetadata;
+
 import com.google.auto.common.BasicAnnotationProcessor.ProcessingStep;
 import com.google.auto.common.MoreElements;
 import com.google.common.collect.ImmutableSet;

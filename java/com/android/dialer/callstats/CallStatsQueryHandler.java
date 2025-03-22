@@ -37,6 +37,7 @@ import com.android.dialer.phonenumbercache.ContactInfo;
 import com.android.dialer.phonenumberutil.PhoneNumberHelper;
 import com.android.dialer.telecom.TelecomUtil;
 import com.android.dialer.util.UriUtils;
+
 import com.google.common.collect.Lists;
 
 import java.lang.ref.WeakReference;

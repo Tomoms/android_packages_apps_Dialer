@@ -19,13 +19,14 @@ package com.android.dialer.precall.impl;
 
 import com.android.dialer.precall.PreCall;
 import com.android.dialer.precall.PreCallAction;
-import com.google.common.collect.ImmutableList;
 
-import javax.inject.Singleton;
+import com.google.common.collect.ImmutableList;
 
 import dagger.Binds;
 import dagger.Module;
 import dagger.Provides;
+
+import javax.inject.Singleton;
 
 /** Dagger module for {@link PreCall}. */
 @Module

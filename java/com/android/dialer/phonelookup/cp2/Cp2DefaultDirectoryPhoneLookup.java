@@ -46,6 +46,7 @@ import com.android.dialer.phonelookup.database.contract.PhoneLookupHistoryContra
 import com.android.dialer.phonenumberproto.PartitionedNumbers;
 import com.android.dialer.storage.Unencrypted;
 import com.android.dialer.util.PermissionsUtil;
+
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Iterables;

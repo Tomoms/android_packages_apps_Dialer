@@ -46,6 +46,7 @@ import com.android.dialer.phonelookup.composite.CompositePhoneLookup;
 import com.android.dialer.phonelookup.database.PhoneLookupHistoryDatabaseHelper;
 import com.android.dialer.phonelookup.database.contract.PhoneLookupHistoryContract;
 import com.android.dialer.phonelookup.database.contract.PhoneLookupHistoryContract.PhoneLookupHistory;
+
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Maps;

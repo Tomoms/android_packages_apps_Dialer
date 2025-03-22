@@ -70,7 +70,6 @@ import com.android.dialer.common.FragmentUtils.FragmentUtilListener;
 import com.android.dialer.common.LogUtil;
 import com.android.dialer.contacts.ContactsComponent;
 import com.android.dialer.logging.ContactSource;
-import com.android.dialer.logging.ContactSource.Type;
 import com.android.dialer.main.MainActivityPeer;
 import com.android.dialer.phonenumbercache.CallLogQuery;
 import com.android.dialer.phonenumbercache.ContactInfo;

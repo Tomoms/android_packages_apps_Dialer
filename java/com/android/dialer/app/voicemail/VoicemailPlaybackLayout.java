@@ -33,6 +33,7 @@ import android.widget.TextView;
 import com.android.dialer.R;
 import com.android.dialer.app.calllog.CallLogAsyncTaskUtil;
 import com.android.dialer.app.calllog.CallLogListItemViewHolder;
+
 import com.google.android.material.snackbar.Snackbar;
 
 import java.util.Objects;

@@ -33,6 +33,7 @@ import com.android.dialer.common.Assert;
 import com.android.dialer.glidephotomanager.PhotoInfo;
 import com.android.dialer.speeddial.database.SpeedDialEntry;
 import com.android.dialer.speeddial.database.SpeedDialEntry.Channel;
+
 import com.google.auto.value.AutoValue;
 import com.google.common.collect.ImmutableList;
 

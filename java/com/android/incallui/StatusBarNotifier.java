@@ -17,7 +17,6 @@
 
 package com.android.incallui;
 
-import static android.telecom.Call.Details.PROPERTY_HIGH_DEF_AUDIO;
 import static com.android.contacts.common.compat.CallCompat.Details.PROPERTY_ENTERPRISE_CALL;
 import static com.android.dialer.app.DevicePolicyResources.NOTIFICATION_INCOMING_WORK_CALL_TITLE;
 import static com.android.dialer.app.DevicePolicyResources.NOTIFICATION_ONGOING_WORK_CALL_TITLE;
@@ -76,7 +75,6 @@ import com.android.dialer.contacts.ContactsComponent;
 import com.android.dialer.lettertile.LetterTileDrawable;
 import com.android.dialer.lettertile.LetterTileDrawable.ContactType;
 import com.android.dialer.notification.NotificationChannelId;
-import com.android.dialer.oem.MotorolaUtils;
 import com.android.dialer.theme.base.ThemeComponent;
 import com.android.dialer.util.DrawableConverter;
 import com.android.incallui.ContactInfoCache.ContactCacheEntry;

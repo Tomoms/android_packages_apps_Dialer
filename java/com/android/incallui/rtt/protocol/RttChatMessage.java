@@ -22,6 +22,7 @@ import androidx.annotation.NonNull;
 import com.android.dialer.common.Assert;
 import com.android.dialer.rtt.RttTranscript;
 import com.android.dialer.rtt.RttTranscriptMessage;
+
 import com.google.common.base.Splitter;
 
 import java.util.ArrayList;

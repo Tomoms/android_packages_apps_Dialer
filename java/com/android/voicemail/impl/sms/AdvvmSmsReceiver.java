@@ -20,10 +20,11 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.provider.Telephony;
-import android.telephony.SmsMessage;
-import com.android.dialer.telecom.TelecomUtil;
 import android.telecom.PhoneAccount;
 import android.telecom.PhoneAccountHandle;
+import android.telephony.SmsMessage;
+
+import com.android.dialer.telecom.TelecomUtil;
 import com.android.voicemail.impl.sync.SyncTask;
 
 /** Receive data SMS messages for the ADVVM protocol used by AT&T and others. */

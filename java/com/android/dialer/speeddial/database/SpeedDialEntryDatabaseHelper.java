@@ -27,6 +27,7 @@ import android.text.TextUtils;
 import com.android.dialer.common.Assert;
 import com.android.dialer.common.database.Selection;
 import com.android.dialer.speeddial.database.SpeedDialEntry.Channel;
+
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
 

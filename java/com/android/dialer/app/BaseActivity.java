@@ -15,14 +15,12 @@
  */
 package com.android.dialer.app;
 
-import android.os.Bundle;
 import android.view.View;
-import android.view.WindowInsetsController;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
-import androidx.core.graphics.Insets;
 
 public class BaseActivity extends AppCompatActivity {
     public void setupInsets(View rootView) {

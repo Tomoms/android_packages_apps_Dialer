@@ -30,6 +30,7 @@ import com.android.dialer.assisteddialing.AssistedDialingMediator;
 import com.android.dialer.assisteddialing.ConcreteCreator;
 import com.android.dialer.assisteddialing.CountryCodeProvider;
 import com.android.dialer.common.LogUtil;
+
 import com.google.auto.value.AutoValue;
 
 import java.util.ArrayList;

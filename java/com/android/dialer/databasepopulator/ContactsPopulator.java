@@ -36,6 +36,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.WorkerThread;
 
 import com.android.dialer.common.Assert;
+
 import com.google.auto.value.AutoValue;
 
 import java.io.ByteArrayOutputStream;

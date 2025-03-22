@@ -50,6 +50,7 @@ import com.android.dialer.speeddial.database.SpeedDialEntry.Channel;
 import com.android.dialer.speeddial.database.SpeedDialEntryDao;
 import com.android.dialer.speeddial.database.SpeedDialEntryDatabaseHelper;
 import com.android.dialer.util.CallUtil;
+
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
 import com.google.common.util.concurrent.Futures;

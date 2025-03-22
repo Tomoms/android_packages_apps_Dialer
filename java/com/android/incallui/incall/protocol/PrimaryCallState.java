@@ -30,6 +30,7 @@ import com.android.dialer.common.Assert;
 import com.android.dialer.preferredsim.suggestion.SuggestionProvider;
 import com.android.incallui.call.state.DialerCallState;
 import com.android.incallui.videotech.utils.SessionModificationState;
+
 import com.google.auto.value.AutoValue;
 
 import java.lang.annotation.Retention;

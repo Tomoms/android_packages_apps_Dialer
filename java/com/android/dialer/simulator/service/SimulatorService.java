@@ -34,6 +34,7 @@ import android.os.RemoteException;
 import androidx.annotation.Nullable;
 
 import com.android.dialer.simulator.impl.SimulatorMainPortal;
+
 import com.google.common.collect.ImmutableList;
 
 import java.security.MessageDigest;

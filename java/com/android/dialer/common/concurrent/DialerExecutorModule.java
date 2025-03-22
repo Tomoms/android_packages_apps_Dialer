@@ -26,18 +26,19 @@ import com.android.dialer.common.concurrent.Annotations.NonUiSerial;
 import com.android.dialer.common.concurrent.Annotations.Ui;
 import com.android.dialer.common.concurrent.Annotations.UiParallel;
 import com.android.dialer.common.concurrent.Annotations.UiSerial;
+
 import com.google.common.util.concurrent.ListeningExecutorService;
 import com.google.common.util.concurrent.MoreExecutors;
+
+import dagger.Binds;
+import dagger.Module;
+import dagger.Provides;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 
 import javax.inject.Singleton;
-
-import dagger.Binds;
-import dagger.Module;
-import dagger.Provides;
 
 /** Module which provides concurrency bindings. */
 @Module

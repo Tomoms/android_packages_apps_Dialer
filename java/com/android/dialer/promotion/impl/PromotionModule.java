@@ -18,6 +18,7 @@
 package com.android.dialer.promotion.impl;
 
 import com.android.dialer.promotion.Promotion;
+
 import com.google.common.collect.ImmutableList;
 
 import dagger.Module;

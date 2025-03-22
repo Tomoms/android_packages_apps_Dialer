@@ -24,10 +24,10 @@ import com.android.voicemail.VoicemailClient;
 import com.android.voicemail.VoicemailPermissionHelper;
 import com.android.voicemail.stub.StubVoicemailClient;
 
-import javax.inject.Singleton;
-
 import dagger.Module;
 import dagger.Provides;
+
+import javax.inject.Singleton;
 
 /** This module provides an instance of the voicemail client. */
 @Module

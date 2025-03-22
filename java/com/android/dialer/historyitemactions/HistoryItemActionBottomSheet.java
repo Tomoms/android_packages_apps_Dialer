@@ -39,6 +39,7 @@ import com.android.dialer.common.Assert;
 import com.android.dialer.compat.android.support.design.bottomsheet.BottomSheetStateCompat;
 import com.android.dialer.theme.base.ThemeComponent;
 import com.android.dialer.widget.ContactPhotoView;
+
 import com.google.android.material.bottomsheet.BottomSheetBehavior;
 import com.google.android.material.bottomsheet.BottomSheetDialog;
 import com.google.common.collect.ImmutableSet;

@@ -20,6 +20,7 @@ package com.android.dialer.assisteddialing;
 import android.text.TextUtils;
 
 import com.android.dialer.common.LogUtil;
+
 import com.google.i18n.phonenumbers.NumberParseException;
 import com.google.i18n.phonenumbers.PhoneNumberUtil;
 import com.google.i18n.phonenumbers.Phonenumber.PhoneNumber;

@@ -45,8 +45,8 @@ import com.android.dialer.util.PermissionsUtil;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
 import java.util.Optional;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * Performs permission checks before calling into TelecomManager. Each method is self-explanatory -

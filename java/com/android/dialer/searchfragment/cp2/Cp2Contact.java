@@ -21,6 +21,7 @@ import android.database.Cursor;
 import androidx.annotation.Nullable;
 
 import com.android.dialer.searchfragment.common.Projections;
+
 import com.google.auto.value.AutoValue;
 
 /** POJO Representation for contacts returned in {@link SearchContactsCursorLoader}. */

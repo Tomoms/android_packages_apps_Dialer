@@ -16,15 +16,14 @@
 
 package com.android.voicemail.impl.configui;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.provider.VoicemailContract;
 import android.text.TextUtils;
 
 import androidx.preference.Preference;
 import androidx.preference.Preference.OnPreferenceClickListener;
 import androidx.preference.PreferenceFragmentCompat;
-
-import android.content.Intent;
-import android.provider.VoicemailContract;
 
 import com.android.dialer.R;
 

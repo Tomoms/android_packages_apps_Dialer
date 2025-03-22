@@ -19,10 +19,10 @@ package com.android.dialer.glidephotomanager;
 
 import com.android.dialer.glidephotomanager.impl.GlidePhotoManagerImpl;
 
-import javax.inject.Singleton;
-
 import dagger.Binds;
 import dagger.Module;
+
+import javax.inject.Singleton;
 
 /** Module for {@link GlidePhotoManagerComponent} */
 @Module
