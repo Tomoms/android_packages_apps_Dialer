@@ -17,7 +17,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="incall_category_title">Падчас выкліку</string>
-    <string name="incall_enable_dnd_title">Уключаць рэжым \"Не турбаваць\" падчас выкліку</string>
     <string name="incall_vibrate_outgoing_title">Вібрацыя пры адказе</string>
     <string name="incall_vibrate_call_waiting_title">Вібрацыя падчас чакання выкліку</string>
     <string name="incall_vibrate_hangup_title">Вібрацыя пры завяршэнні</string>
