@@ -48,4 +48,8 @@
 
     <string name="default_dialer_text">You must set Dialer as the default phone app to use it.</string>
     <string name="default_dialer_action">Set as default</string>
+
+    <!-- Call recording -->
+    <string name="call_recording_autostart_key" translatable="false">call_recording_autostart</string>
+    <string name="call_recording_autostart_title">Autostart call recording</string>
 </resources>
