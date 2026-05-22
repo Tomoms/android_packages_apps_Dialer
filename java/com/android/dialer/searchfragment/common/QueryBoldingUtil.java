@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2017 The Android Open Source Project
- * Copyright (C) 2023 The LineageOS Project
+ * Copyright (C) 2023-2026 The LineageOS Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -66,11 +66,14 @@ public class QueryBoldingUtil {
     }
 
     if (!QueryFilteringUtil.nameMatchesT9Query(query, name, context)) {
-      Pattern pattern = Pattern.compile("(^|\\s)" + Pattern.quote(query.toLowerCase()));
-      Matcher matcher = pattern.matcher(name.toLowerCase());
+      Pattern pattern = Pattern.compile("(^|\\s)(" + Pattern.quote(query) + ")",
+              Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE);
+      Matcher matcher = pattern.matcher(name);
       if (matcher.find()) {
         // query matches the start of a name (i.e. "jo" -> "Jessica [Jo]nes")
-        return getBoldedString(name, matcher.start(), query.length());
+        int start = matcher.start(2);
+        int end = matcher.end(2);
+        return getBoldedString(name, start, end - start);
       } else {
         // query not found in name
         return name;
